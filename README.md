@@ -8,7 +8,7 @@ intuitivas e responsivas; em banco de dados utilizando SQL server, realizando
 procedures e conectando ao backend e frontend.
 
 ## 🔗 Linkedin
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/brunocantacini)
 
 ### 🛠️ Minhas Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
