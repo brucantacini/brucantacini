@@ -1,11 +1,7 @@
 # Olá, eu sou o Bruno! 👋
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor full-stack, atualmente estudando ADS na FIAP.
-Aprimorei meus conhecimentos backend criando e desenvolvendo projetos na
-faculdade; em frontend com html, css, js, bootstrap criando interfaces bonitas,
-intuitivas e responsivas; em banco de dados utilizando SQL server, realizando
-procedures e conectando ao backend e frontend.
+Desenvolvedor full-stack, apaixonado por tecnologia e desenvolvimento de software. Possuo capacidade de trabalhar com as linguagens Python, Java e Javascript, versionamento git, estilizar e estruturar telas com html, css e manipular dados com SGBD SQL. Estou motivado a contribuir com ideias e crescer junto à empresa, aplicando meus conhecimentos em um ambiente colaborativo.
 
 ## 🔗 Linkedin
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunocantacini)
